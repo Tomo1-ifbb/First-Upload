@@ -1,2 +1,2 @@
 # Janken
-# My first github uploading.
+My first github uploading.
